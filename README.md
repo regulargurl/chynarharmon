@@ -1,6 +1,7 @@
 # 👧🏾 Chyna Harmon
 **`Digital Pixel Agent**
 👋 Hey there, Chyna here! 
+
 passionate about coding & creating digital magic 🔮🌟
 
 Let's join forces & turn your visions into functional code with a touch of manifesting magic. 👩🏽‍💻
