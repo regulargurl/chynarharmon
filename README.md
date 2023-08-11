@@ -1,7 +1,9 @@
 # 👧🏾 Chyna Harmon
 **`Digital Pixel Agent**
-👋 Hey there, fellow operatives! 🕵️‍♂️ Are you ready to embark on a top-secret mission to make coding AWESOME and FUN? 🚀 Meet me, Codename "TechWhiz", your friendly operative web developer! 💻
- As a proud member of DPA, my mission is clear: to transform the world of coding into an exhilarating adventure! 🌐🗺️ Armed with my trusty keyboard and boundless imagination, I'm determined to build websites that will blow your mind and leave you wanting more!
+👋 Hey there, Chyna here! 
+passionate about coding & creating digital magic 🔮🌟
+
+Let's join forces & turn your visions into functional code with a touch of manifesting magic. 👩🏽‍💻
   
 ---
 ### 🧰 Languages and Tools
